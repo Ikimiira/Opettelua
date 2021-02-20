@@ -1,0 +1,37 @@
+TAY21KH2CTK8 ryhmäkoodi
+
+c0ikmi00
+Sähköpostiosoite:c0ikmi00@students.oamk.fi
+Ss: Swan_Qu33n_21
+
+harjoittelu 17.5. alkaen,
+Enrollment key (kirjautumisavain) is tay21h2c, javascript-kurssiavain tay21h2c
+
+https://oamk.zoom.us/j/68713601487?pwd=Qmt1TEN0T3ZYVkRZTXJUTytPcEhCQT09
+
+
+
+
+https://airbrake.io/blog/sdlc/extreme-programming
+
+Käyttö kun tarvitaan melko nopeaa aikataulua, ja kun tarvitaan jatkuvaa testausta tai seurantaa
+
+
+…or create a new repository on the command line
+echo "# Opettelua" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ikimiira/Opettelua.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Ikimiira/Opettelua.git
+git branch -M main
+git push -u origin main
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+.nature li img[alt¨="kukka] {
+border = }
